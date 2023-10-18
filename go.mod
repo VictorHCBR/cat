@@ -1,3 +1,3 @@
-module github.com/victorhcbr/cat/meow
+module github.com/VictorHCBR/cat
 
 go 1.21.3
